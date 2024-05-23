@@ -1,0 +1,5 @@
+The & sign means  “store at the location of variable
+
+We can't say Fahrenheit without the ampersand, because Fahrenheit is a variable, and if we said Fahrenheit, we would look for the value in that variable.
+
+In this case, we want to look for the address of that variable, and addresses location in memory.
